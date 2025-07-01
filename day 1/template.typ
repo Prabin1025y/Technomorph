@@ -52,7 +52,7 @@
     number-align: center,
     margin: (top: 3cm, bottom: 2cm, left: 3cm, right: 2cm),
   )
-  set heading(numbering: "1.1")
+  // set heading(numbering: "1.1")
   set text(size: 12pt)
   counter(page).update(1)
   body
